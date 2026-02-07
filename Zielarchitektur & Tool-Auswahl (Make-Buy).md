@@ -18,3 +18,4 @@ Output (Markdown):
 - Variantenvergleich (Pro/Contra, Risiken, Betrieb)
 - Tool-Shortlist (je Baustein 2–3 Optionen + Begründung)
 - Empfohlene Variante + nächste Schritte (PoC Plan)
+
