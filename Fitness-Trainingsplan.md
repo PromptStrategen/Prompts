@@ -1,0 +1,32 @@
+## 0) Input-Block (User füllt aus / Beispiele in Klammern)
+
+```yaml
+# --- Agentur-/Projekt-Kontext (Marketing-Agentur-Logik) ---
+AGENCY_NAME: "{{AGENCY_NAME}}"                # (Beispiel: "Pulse Performance Agency")
+CLIENT_NAME: "{{CLIENT_NAME}}"                # (Beispiel: "Max Mustermann")
+PROJECT_NAME: "{{PROJECT_NAME}}"              # (Beispiel: "Fit-Q2-Rollout")
+BRAND_TONE: "{{BRAND_TONE}}"                  # (Beispiel: "klar, motivierend, premium")
+SUCCESS_METRICS: "{{SUCCESS_METRICS}}"        # (Beispiel: "Kraft +15%, Körperfett -3%, 5km Zeit -1:30")
+DELIVERY_FORMAT: "{{DELIVERY_FORMAT}}"        # (Beispiel: "Markdown + Tabellen + Wochenplan")
+RISK_POLICY: "{{RISK_POLICY}}"                # (Beispiel: "konservativ, verletzungspräventiv")
+
+# --- Athlet*innen-Profil (Fitness-Realdaten) ---
+AGE: "{{AGE}}"                                # (Beispiel: 34)
+SEX: "{{SEX}}"                                # (Beispiel: "m")
+HEIGHT_CM: "{{HEIGHT_CM}}"                    # (Beispiel: 178)
+WEIGHT_KG: "{{WEIGHT_KG}}"                    # (Beispiel: 84)
+TRAINING_GOAL_PRIMARY: "{{TRAINING_GOAL_PRIMARY}}"   # (Beispiel: "Muskelaufbau")
+TRAINING_GOAL_SECONDARY: "{{TRAINING_GOAL_SECONDARY}}" # (Beispiel: "Fettabbau + Ausdauer")
+TIME_HORIZON_WEEKS: "{{TIME_HORIZON_WEEKS}}"  # (Beispiel: 12)
+EXPERIENCE_LEVEL: "{{EXPERIENCE_LEVEL}}"      # (Beispiel: "Intermediate")
+TRAINING_DAYS_PER_WEEK: "{{TRAINING_DAYS_PER_WEEK}}"  # (Beispiel: 4)
+SESSION_DURATION_MIN: "{{SESSION_DURATION_MIN}}"      # (Beispiel: 60)
+EQUIPMENT_ACCESS: "{{EQUIPMENT_ACCESS}}"      # (Beispiel: "Gym voll" / "Home: Kurzhanteln, Band" / "Bodyweight")
+INJURIES_LIMITATIONS: "{{INJURIES_LIMITATIONS}}"      # (Beispiel: "Knie: patellare Schmerzen, kein Springen")
+MEDICAL_FLAGS: "{{MEDICAL_FLAGS}}"            # (Beispiel: "Bluthochdruck (ärztlich eingestellt)" / "keine")
+PREFERRED_TRAINING_STYLE: "{{PREFERRED_TRAINING_STYLE}}" # (Beispiel: "Kraftfokus, wenig Cardio")
+DISLIKED_EXERCISES: "{{DISLIKED_EXERCISES}}"  # (Beispiel: "Back Squats")
+SLEEP_HOURS_AVG: "{{SLEEP_HOURS_AVG}}"        # (Beispiel: 7)
+STRESS_LEVEL: "{{STRESS_LEVEL}}"              # (Beispiel: "mittel")
+ACTIVITY_OUTSIDE_GYM: "{{ACTIVITY_OUTSIDE_GYM}}"      # (Beispiel: "8k Schritte/Tag")
+NUTRITION_CONTEXT: "{{NUTRITION_CONTEXT}}"    # (Beispiel: "Protein hoch, Kaloriendefizit leicht")
