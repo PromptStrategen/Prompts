@@ -1,6 +1,6 @@
 > **Zweck:** Dieser Prompt erzeugt einen **umsetzungsreifen Leitfaden** für ein **Digitales Marketing-Framework** – inkl. Strategie, Kanal-Setup, KPI-System, Governance, Experiment-Backlog, Budget-Logik und Templates.  
 > **Einsatzkontext:** Marketing-/Digitalagentur (Discovery → Strategie → Rollout → Betrieb).  
-> **Output:** Der Assistent liefert eine **vollständige, strukturierte Markdown-Dokumentation**, die direkt als Kunden-Deliverable genutzt werden kann.
+> **Output:** Der Assistent liefert eine **vollständige, strukturierte Word-Dokumentation**, die direkt als Kunden-Deliverable genutzt werden kann.
 
 ---
 
@@ -132,4 +132,4 @@ Am Ende der Antwort füge eine Sektion ein:
 
 ## Beispiel: Minimaler Aufruf
 
-> "Nutze den Prompt. Ich fülle nur den Variablenblock aus und möchte ein vollständiges Framework-Playbook als Markdown-Dokument."
+> "Nutze den Prompt. Ich fülle nur den Variablenblock aus und möchte ein vollständiges Framework-Playbook als Word Dokument."

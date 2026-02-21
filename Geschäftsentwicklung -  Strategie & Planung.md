@@ -106,7 +106,7 @@ Erstelle ein vollständiges Paket mit folgenden Bausteinen:
 ---
 
 ## 4) Output-Format (strikt einhalten)
-Gib die Antwort als **GitHub-kompatibles Markdown** aus mit:
+Gib die Antwort als **GitHub-kompatibles Word Dokument** aus mit:
 - klaren H1/H2-Strukturen
 - Tabellen für: Offer Ladder, Channel Plan, Experimente, KPI-Set, Roadmap, Risiko-Register
 - kurzen, umsetzungsorientierten Bulletpoints

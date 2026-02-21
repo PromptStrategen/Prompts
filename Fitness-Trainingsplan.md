@@ -22,7 +22,7 @@
 - {{CARDIO_OPTIONAL}} = "2x Zone-2 je 25 min"
 - {{MESSBARE_KPIS}} = "Bankdrücken +10kg, 2cm weniger Taille, 3x/Woche Mobility"
 - {{ERNÄHRUNG_RAHMEN}} = "Protein priorisieren; keine strikte Diät; 2.500–2.700 kcal"
-- {{PLAN_FORMAT}} = "Markdown-Plan + Wochenübersicht + Übungsdetails"
+- {{PLAN_FORMAT}} = "Word Dokument-Plan + Wochenübersicht + Übungsdetails"
 
 ---
 
@@ -55,7 +55,7 @@ Gewünschtes Format: {{PLAN_FORMAT}}
 Wenn wichtige Infos fehlen oder widersprüchlich sind, stelle **max. 7 präzise Rückfragen** (Priorität: Verletzungen, Equipment, Zeit, Ziel, Level).  
 Wenn genügend Infos da sind: **keine Rückfragen** – direkt liefern.
 
-### C) Deliverable (Output-Struktur in Markdown)
+### C) Deliverable (Output-Struktur in Word Dokument)
 Erstelle den Plan mit dieser Struktur (Überschriften exakt so nutzen):
 
 1. **Executive Summary (1 Minute Read)**  

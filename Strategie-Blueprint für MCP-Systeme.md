@@ -73,7 +73,7 @@ Nicht-Ziele: {{NON_GOALS}}
 
 # 4) Output-Format (STRICT)
 
-Gib deine Antwort **genau** in folgendem Markdown-Layout aus:
+Gib deine Antwort **genau** in folgendem Word Dokument-Layout aus:
 
 ## A. Executive Summary (1 Seite)
 - Zielbild in 5 Bullet Points

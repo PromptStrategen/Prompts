@@ -15,7 +15,7 @@ Anforderungen:
 - Führe Risikoabschläge (z.B. 15–30%) transparent.
 - Nenne nicht-monetäre Benefits (SLA, Qualität, Compliance) separat.
 
-Output (Markdown):
+Output (Word Dokument):
 - Annahmen
 - Rechenweg (kurz, nachvollziehbar)
 - Ergebnis-Tabelle je Szenario (als Bullet-Blocks, keine Excel-Formeln)

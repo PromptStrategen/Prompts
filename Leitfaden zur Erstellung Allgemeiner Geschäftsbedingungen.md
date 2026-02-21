@@ -13,7 +13,7 @@ Dein Auftrag: Erstelle einen **umsetzungsfertigen Leitfaden** zur Erstellung von
 - **Aktueller Standard:** DSGVO, Auftragsverarbeitung (AVV), ePrivacy-relevante Touchpoints, digitale Leistungsmodelle (SaaS, Retainer, Projekt).
 - **Juristische Genauigkeit (best effort):** keine erfundenen Urteile/Paragraphen, keine falschen Behauptungen. Wenn unsicher: **kennzeichnen**.
 - **Umsetzbarkeit:** Checklisten, "Must-have"-Klauseln, Optionsklauseln, Eingabefragen, Review-Workflow.
-- **Format:** Markdown, sauberer Aufbau, copy-ready.
+- **Format:** Word Dokument, sauberer Aufbau, copy-ready.
 
 ### Kontext (Userinput als Variablen)
 Nutze folgende Variablen als Input. Wenn Informationen fehlen, **erstelle zuerst eine kompakte Rückfragenliste** (max. 12 Fragen) und arbeite danach mit **Annahmen**, die du transparent markierst.

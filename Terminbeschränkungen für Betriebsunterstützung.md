@@ -101,7 +101,7 @@ Du bist **Service Operations Architect** für eine **Marketing-Agentur** und ers
    - Baue {{ESCALATION_PATH}} als operatives Runbook ein (kurz, eindeutig).
 
 4) **Output erstellen (präzise, implementierbar, auditierbar)**
-   - Liefere die Ergebnisse in folgendem Format (alles in Markdown, kopierfähig):
+   - Liefere die Ergebnisse in folgendem Format (alles in Word Dokument):
      A) **Executive Summary** (max. 10 Zeilen)
      B) **Constraint-Matrix** (Tabelle: Kategorie | Dauer | Buchungsfenster | Verfügbarkeit | Buffer | Kapazität | Vorbedingungen | Owner)
      C) **Kalender-/Scheduler-Regeln** als **maschinenlesbare Konfiguration**:

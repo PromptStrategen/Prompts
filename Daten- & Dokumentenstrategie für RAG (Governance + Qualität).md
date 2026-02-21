@@ -12,7 +12,7 @@ Aufgaben:
 3) Definiere Metadaten-Standard (Owner, Version, Gültig-ab, Sensitivität, Bereich, Sprache).
 4) Skizziere Governance-Prozess (Freigabe, Review-Zyklen, Deletion, Audit).
 
-Output (Markdown):
+Output (Word Dokument):
 - Zielbild & Prinzipien
 - Pipeline-Blueprint
 - Metadaten-Schema (als JSON-Beispiel)

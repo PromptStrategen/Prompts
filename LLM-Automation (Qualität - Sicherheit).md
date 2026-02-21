@@ -13,7 +13,7 @@ Erstelle:
 4) Validierungscheckliste (Halluzination, Quellen, Policy-Verstöße).
 5) Fallback-Strategie (wenn Kontext fehlt / Unsicherheit).
 
-Output (Markdown):
+Output (Word Dokument):
 - System Prompt (Codeblock)
 - Instruction Prompt (Codeblock)
 - User Template (Codeblock)

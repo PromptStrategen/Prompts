@@ -13,7 +13,7 @@ Vorgehen:
 3) Erstelle Make/Buy-Matrix (wann SaaS, wann Open Source, wann Eigenbau).
 4) Definiere NFRs (Non-Functional Requirements): Latenz, Verfügbarkeit, Audit, Datenresidenz.
 
-Output (Markdown):
+Output (Word Dokument):
 - Architekturübersicht (Textdiagramm)
 - Variantenvergleich (Pro/Contra, Risiken, Betrieb)
 - Tool-Shortlist (je Baustein 2–3 Optionen + Begründung)

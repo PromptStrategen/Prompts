@@ -12,7 +12,7 @@ Ziel / Auftrag:
 Erstelle für {{AGENCY_NAME}} einen Alibaba-Leitfaden zur Lieferantenbindung für den Kunden {{KUNDE_NAME}}. Der Leitfaden soll Lieferanten nicht nur „finden“, sondern langfristig binden: bessere Konditionen, priorisierte Kapazitäten, stabilere Qualität, geringere Lieferzeiten, weniger Reklamationen, geringeres Ausfallrisiko, höhere Verlässlichkeit.
 
 Output-Format:
-Gib das Ergebnis als strukturierten Leitfaden in sauberem Markdown aus. Nutze Überschriften (H1–H3), Tabellen wo sinnvoll, sowie direkt nutzbare Vorlagen (Templates). Verwende eine klare, professionelle Sprache (Deutsch).
+Gib das Ergebnis als strukturierten Leitfaden in sauberem Word Dokument aus. Nutze Überschriften (H1–H3), Tabellen wo sinnvoll, sowie direkt nutzbare Vorlagen (Templates). Verwende eine klare, professionelle Sprache (Deutsch).
 
 Wichtig: 
 - Keine rechtliche Beratung. Wo es um Rechts-/Zoll-/Steuerfragen geht: „mit Fachstelle abstimmen“.
@@ -70,7 +70,7 @@ F) Wenn Informationen fehlen:
    - Triff pragmatische Annahmen (kennzeichnen als „Annahme“).
    - Liste offene Punkte am Ende als „Offene Fragen für den Kunden-Workshop“ (max. 12). Stelle mir im Chat keine Rückfragen – liefere direkt.
 
-Strukturvorgabe (Markdown):
+Strukturvorgabe (Word Dokument):
 # Alibaba-Leitfaden zur Lieferantenbindung für {{KUNDE_NAME}}
 ## 1. Executive Summary
 ## 2. Zielbild & Supplier-Value-Proposition (Warum sollen Lieferanten *uns* priorisieren?)

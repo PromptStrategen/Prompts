@@ -105,7 +105,7 @@ Je Phase:
 - Tagesabschluss (Review + Planung)
 
 ### 8) Templates (copy-ready)
-Liefere als Markdown:
+Liefere als Word Dokument:
 - **Weekly Review Template**  
 - **Decision Log Template**  
 - **Priorisierung (ICE/RICE oder Impact/Effort) Template**  

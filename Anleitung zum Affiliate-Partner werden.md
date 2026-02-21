@@ -108,4 +108,4 @@ Erstelle je Primärkanal aus `{{KANALE}}`:
 - Keine unrealistischen Versprechen; Fokus auf saubere Umsetzung & Messbarkeit
 
 ## Starte jetzt
-Nutze die Variablen und liefere die Anleitung in sauberem Markdown.
+Nutze die Variablen und liefere die Anleitung in sauberem Word Dokument.

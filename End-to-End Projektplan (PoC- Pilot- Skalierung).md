@@ -12,7 +12,7 @@ Anforderungen:
 - Definiere Workstreams: Tech, Data, Security, Legal, Change, Operations.
 - Liefere eine klare Prioritätenlogik (Was zuerst, warum).
 
-Output (Markdown):
+Output (Word Dokument):
 - Executive Plan (1 Seite)
 - Phasenplan (Zeitstrahl in Wochen)
 - Deliverables je Workstream

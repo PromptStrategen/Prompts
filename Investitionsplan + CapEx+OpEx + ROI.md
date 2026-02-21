@@ -24,7 +24,7 @@
 - {{COMPLIANCE_REQUIREMENTS}} = z. B. "DSGVO, AVV, TOMs, ISO-Orientierung"
 - {{DISCOUNT_RATE_PCT}} = z. B. 10   <!-- für NPV -->
 - {{SCENARIOS}} = z. B. "Base, Downside, Upside"
-- {{REPORTING_PREFERENCE}} = z. B. "tabellarisch + Executive Summary, GitHub-Markdown"
+- {{REPORTING_PREFERENCE}} = z. B. "tabellarisch + Executive Summary, Word Dokument"
 
 ## Beispielwerte (optional, zur Orientierung)
 > {{MAX_BUDGET_TOTAL}}=80000, {{PLANNING_HORIZON_MONTHS}}=24, {{CURRENT_REVENUE_MRR}}=25000,  
@@ -73,7 +73,7 @@ sein.
 - Stelle Rückfragen **nur**, wenn eine Entscheidung sonst nicht seriös möglich ist; maximal **3** Fragen am Ende.
 - Keine erfundenen Quellen/Benchmarks: Falls du Benchmarks nutzt, markiere sie als **"Heuristik"**.
 
-### 5) Output-Format (GitHub-Markdown, strukturiert)
+### 5) Output-Format (Word Dokument, strukturiert)
 Liefere genau die folgenden Abschnitte:
 
 #### A) Executive Summary (1 Seite)

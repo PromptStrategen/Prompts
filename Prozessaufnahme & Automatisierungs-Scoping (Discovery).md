@@ -20,7 +20,7 @@ Qualitätsregeln:
 - Keine Buzzwords ohne konkrete Umsetzung.
 - Ergebnis muss entscheidungsfähig sein.
 
-Output-Format (Markdown):
+Output-Format (Word Dokument):
 - Executive Summary (max. 8 Bulletpoints)
 - Prozesskarte (Schritte 1..n)
 - Kandidatenliste (pro Kandidat: Typ, Nutzen, Aufwand, Risiko, Daten/Systeme, Quick-Win)

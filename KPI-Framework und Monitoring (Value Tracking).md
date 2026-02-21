@@ -12,7 +12,7 @@ Aufgaben:
 4) Dashboard-Struktur (Kacheln, Drilldowns, Alerts).
 5) Governance: Owner, Review, Maßnahmensteuerung.
 
-Output (Markdown):
+Output (Word Dokument):
 - KPI Tree
 - KPI Definitions (Formel in Klartext)
 - Target Operating Rhythm (Meetings + Artefakte)

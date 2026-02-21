@@ -70,7 +70,7 @@ AUSGABEFORMAT (streng einhalten)
    - mind. 5 Rollenmodule (Account, Creative, Performance, PM, Tracking/Dev)
    - je Modul: Erfolgsdimensionen + typische KPI/Deliverables
 6) Selbstbewertungs-Template (zum Ausfüllen)
-   - Tabellen/Blöcke, die man direkt kopieren kann (Markdown)
+   - Tabellen/Blöcke (Word Dokument)
 7) Formulierungsbausteine
    - „Erfolg“ (Impact-orientiert), „Lernen“, „Herausforderung“, „Konfliktlösung“, „Next Steps“
 8) Next-Year-Plan
@@ -83,7 +83,7 @@ AUSGABEFORMAT (streng einhalten)
 QUALITÄTSREGELN
 - Keine generischen Phrasen ohne Substanz. Jede Aussage muss entweder messbar sein oder einen beobachtbaren Indikator haben.
 - Verwende die Agentur-Realität: Deadlines, Kundenkommunikation, Kampagnen, Attribution, Retainer, Marge, QA, Review-Routinen.
-- Nutze Markdown sauber: Überschriften, Listen, Tabellen. Keine Emojis.
+- Nutze Word Dokument sauber: Überschriften, Listen, Tabellen. Keine Emojis.
 - Schreibe so, dass ein Mensch es in 30 Minuten für ein Jahresgespräch verwenden kann.
 ```
 

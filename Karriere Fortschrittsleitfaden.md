@@ -33,7 +33,7 @@
 ### Output‑Prefs
 - `{{LANGUAGE}}` = Deutsch
 - `{{TONE}}` = business‑professionell, präzise, motivierend, nicht pathetisch
-- `{{FORMAT}}` = Markdown mit klaren Überschriften, Tabellen, Checklisten
+- `{{FORMAT}}` = Word Dokument mit klaren Überschriften, Tabellen, Checklisten
 
 ---
 
@@ -67,7 +67,7 @@ A) Wenn kritische Infos fehlen, stelle **max. 8** gezielte Rückfragen.
 B) Erzeuge anschließend den Leitfaden in der unten definierten Struktur, ohne Floskeln, ohne „KI‑Ton“. 
 C) Lege den Fokus auf: Wirkung/Outcome, Nachweise (Portfolio), Stakeholder‑Management, Karriere‑Leverage (Sichtbarkeit), sowie robuste Systeme (Routinen, Reviews).
 
-Ausgabe‑Struktur (Markdown, exakt in dieser Reihenfolge):
+Ausgabe‑Struktur (Word Dokument, exakt in dieser Reihenfolge):
 1) Executive Summary (max. 12 Zeilen): Zielbild, Strategie, wichtigste Hebel
 2) Zielrollen‑Blueprint:
    - Verantwortungspakete, Kern‑Deliverables, erwartete KPIs, typische Stakeholder

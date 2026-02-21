@@ -93,7 +93,7 @@ Nutze diese Rubrik und mache sie transparent:
 
 - Sprache: `{{SPRACHE_AUSGABE}}`
 - Tonalität: **Businesslike Agentur-Reporting** (klar, umsetzbar, KPI-orientiert)
-- Struktur: Markdown mit klaren Überschriften, Tabellen, Checklisten
+- Struktur: Word Dokument mit klaren Überschriften, Tabellen, Checklisten
 - Keine langen Romane: kurze, belastbare Absätze; Fokus auf Maßnahmen.
 
 ### Pflicht-Gliederung (genau so ausgeben)

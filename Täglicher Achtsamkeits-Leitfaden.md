@@ -1,5 +1,5 @@
 > **Ziel:** Dieses Prompt erzeugt einen **hochwertigen, praxisnahen und detailtiefen Achtsamkeits-Leitfaden** für den Alltag – inklusive **Morgen-, Mittags-, Abend-Routinen**, Mikro-Übungen, Reflexion, Progress-Tracking und Varianten (z. B. Stress, Fokus, Schlaf).  
-> **Output:** Ein **druck- und app-tauglicher** Leitfaden in sauberer Struktur (Markdown), ohne esoterische Floskeln, mit konkreten Zeitfenstern und klaren Anweisungen.
+> **Output:** Ein **druck- und app-tauglicher** Leitfaden in sauberer Struktur (Word Dokument), ohne esoterische Floskeln, mit konkreten Zeitfenstern und klaren Anweisungen.
 
 ---
 
@@ -13,7 +13,7 @@
 {{GOAL_SECONDARY}} = "Schlaf verbessern"
 {{TONE}} = "professionell, ruhig, motivierend, ohne Kitsch"
 {{LANGUAGE}} = "Deutsch"
-{{FORMAT_PREFERENCE}} = "Markdown"
+{{FORMAT_PREFERENCE}} = "Word Dokument"
 {{DAILY_TIME_BUDGET_MIN}} = 12
 {{TIME_WINDOWS}} = "Morgen (3–5 min), Mittag (2–4 min), Abend (4–6 min)"
 {{EXPERIENCE_LEVEL}} = "Einsteiger"

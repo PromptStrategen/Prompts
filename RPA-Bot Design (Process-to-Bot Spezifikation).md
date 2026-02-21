@@ -13,7 +13,7 @@ Lieferumfang:
 - Sicherheitsanforderungen (Credentials, Least Privilege, Audit)
 - Testfälle (Happy Path + Edge Cases)
 
-Output (Markdown):
+Output (Word Dokument):
 - Bot Overview
 - Flow (nummeriert)
 - Datenmapping (als Bullet-Matrix)

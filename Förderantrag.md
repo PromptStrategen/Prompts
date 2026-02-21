@@ -54,7 +54,7 @@ Nutze ausschließlich die folgenden Variablen als Quelle:
 
 ### 2) Output-Anforderungen (Format & Qualität)
 - Ausgabe **auf Deutsch**, im **Business-/Unternehmensjargon**, klar, präzise, ohne Fülltext.
-- Format: **Markdown**, mit sauberer Gliederung, Tabellen wo sinnvoll.
+- Format: **Word Dokument**, mit sauberer Gliederung, Tabellen wo sinnvoll.
 - Liefere **prüffähige** Inhalte: klare Ziel-Logik (Problem → Maßnahme → Output → Outcome), messbare KPIs, Zeit-/Budgetkonsistenz.
 - Ergänze eine **Plausibilitätsprüfung** (z. B. Budget vs. Laufzeit vs. Arbeitspakete) und markiere Inkonsistenzen.
 - Datenschutz/Sicherheit: konkretes Minimum-Set (DSGVO, AVV, TOMs, Rollen/Rechte, Datenflüsse) passend zum Projekt.
@@ -67,7 +67,7 @@ Nutze ausschließlich die folgenden Variablen als Quelle:
 
 ---
 
-## 4) Förderantrag-Entwurf (Markdown-Struktur)
+## 4) Förderantrag-Entwurf (Word Dokument-Struktur)
 Erstelle den Antrag exakt in dieser Struktur:
 
 ### A. Management Summary (max. 150 Wörter)

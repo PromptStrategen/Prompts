@@ -63,7 +63,7 @@ Erstelle ein **umsetzungsreifes Konzept** für **{ {BISTRO_WORKING_TITLE} }**, d
 ---
 
 ## 2) Output-Format (zwingend)
-Gib alles in **Markdown** aus, mit:
+Gib alles in **Word Dokument** aus, mit:
 - H2/H3-Überschriften
 - Mind. **2 Tabellen** (Budget/Kanäle + KPI/Dashboard)
 - **Checklisten** für Launch & Betrieb
@@ -149,4 +149,4 @@ Gib alles in **Markdown** aus, mit:
 - Gibt es **konkrete Beispiele** und **keine Floskeln**?
 - Sind KPIs messbar und realistisch?
 
-Liefere jetzt das vollständige Konzept in Markdown.
+Liefere jetzt das vollständige Konzept in Word Dokument.

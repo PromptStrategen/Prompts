@@ -55,7 +55,7 @@ Nutze **alle** Variablen. Falls Informationen fehlen: **stelle maximal 10 präzi
 - {{RISK_APPETITE}} = "konservativ/mittel/aggressiv"
 
 ### Output-Anforderungen (Pflicht)
-Liefere ein **Markdown-Dokument** mit folgenden Eigenschaften:
+Liefere ein **Word Dokument** mit folgenden Eigenschaften:
 1. **Executive Summary (1 Seite)**: Business Nutzen, Risiko, grobe Kosten-/Aufwandstreiber, Quick Wins.
 2. **Zielarchitektur** (Diagramm als ASCII/mermaid *optional* + klare Komponentenliste).
 3. **Standards & Policies**: Naming, Schema-Design, Data Contracts, Versionsstrategien, Migrationen.
@@ -99,7 +99,7 @@ Prüfe vor der finalen Antwort:
 - Sind Annahmen und offene Punkte klar sichtbar?
 
 ### Formatvorgaben
-- Ausgabe ausschließlich als **Markdown**.
+- Ausgabe ausschließlich als **Word Dokument**.
 - Überschriften-Hierarchie korrekt (H1/H2/H3).
 - Kurze Absätze, klare Bullet Points.
 - Keine externen Links, außer wenn ausdrücklich vom User gewünscht.

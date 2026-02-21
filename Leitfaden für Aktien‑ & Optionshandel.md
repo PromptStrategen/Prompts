@@ -14,7 +14,7 @@
 | `{{TARGET_AUDIENCE}}` | Zielgruppe (Persona + Erfahrungsstand) | `Einsteiger & Fortgeschrittene (Privatanleger 25–45)` |
 | `{{KNOWLEDGE_LEVEL}}` | 1 Wort: Anfänger / Fortgeschritten / Profi | `Anfänger` |
 | `{{PRIMARY_GOAL}}` | Hauptziel des Guides | `Sicherer Einstieg in Optionen mit Fokus auf Risikomanagement` |
-| `{{CONTENT_FORMAT}}` | Ausgabemedium | `Lead‑Magnet (Markdown → PDF), 18–25 Seiten` |
+| `{{CONTENT_FORMAT}}` | Ausgabemedium | `Lead‑Magnet (Word Dokument → PDF), 18–25 Seiten` |
 | `{{TONE_OF_VOICE}}` | Tonalität/Brand Voice | `seriös, klar, didaktisch, ohne Hype` |
 | `{{READING_LEVEL}}` | Lesbarkeit (z. B. „8. Klasse“ / „Business“) | `Business‑verständliches Deutsch` |
 | `{{COMPLIANCE_LEVEL}}` | Compliance‑Rahmen | `Finanzbildung, keine Empfehlungen, keine Prognosen` |
@@ -73,10 +73,10 @@ Erstelle einen **vollständigen, professionellen Leitfaden** für **Aktien‑ un
 
 ## 3) Output‑Spezifikation (was du liefern musst)
 
-**Lieferformat:** Reines **Markdown**, sauber formatiert, mit:
+**Lieferformat:** Reines **Word Dokument**, sauber formatiert, mit:
 
 1. **Titel + Subline** (brand‑konform zu `{{CLIENT_BRAND}}`)  
-2. **Inhaltsverzeichnis** (Markdown‑Links)  
+2. **Inhaltsverzeichnis** (Links)  
 3. **Executive Summary** (max. 10 Bullet Points)  
 4. **Kapitelstruktur** mit H2/H3‑Überschriften, konsistentem Stil  
 5. **Checklisten**, **Tabellen** und **Mini‑Templates** (Trading‑Plan, Journal, Risk‑Checklist)  
@@ -146,7 +146,7 @@ Bevor du final ausgibst, prüfe:
 - [ ] Risiken sind prominent, verständlich und vollständig  
 - [ ] Jede Strategie hat Payoff, Risiken, Exit‑Logik und Fehlerliste  
 - [ ] Glossar ≥ 30 Begriffe, FAQ ≥ 12 Fragen  
-- [ ] Markdown‑Struktur sauber, ToC funktioniert, Tabellen lesbar  
+- [ ] Word Dokument struktur sauber, ToC funktioniert, Tabellen lesbar  
 - [ ] CTA seriös und passend, Disclaimer vorhanden
 
 ---

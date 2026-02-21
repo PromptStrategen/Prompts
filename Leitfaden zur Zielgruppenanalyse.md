@@ -51,7 +51,7 @@ Nutze die folgenden Angaben als „Source of Truth“. Wenn etwas fehlt, markier
 - **Output-Qualität:** prägnant, agenturtauglich, copy/paste-fähig, mit Checklisten.
 
 ### 3) Deliverable: Erstelle einen Leitfaden als SOP mit folgendem Aufbau
-Gib die Antwort **in sauberem Markdown** aus und nutze klare Überschriften, Tabellen und Checklisten.
+Gib die Antwort **in sauberem Word Dokument** aus und nutze klare Überschriften, Tabellen und Checklisten.
 
 #### A) Executive Summary (1 Seite)
 - Zielbild, Scope, Ergebnisartefakte, Zeitplan, Verantwortlichkeiten (RACI light).

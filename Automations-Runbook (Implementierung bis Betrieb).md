@@ -14,7 +14,7 @@ Lieferumfang:
 - Rollback-Strategie & Versionierung
 - Wartungsfenster & Change-Prozess
 
-Output (Markdown):
+Output (Word Dokument):
 - Quick Start (10 Schritte)
 - Betriebshandbuch (Kapitelstruktur)
 - Alert-Regeln (konkret, mit Schwellwerten)

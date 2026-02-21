@@ -18,7 +18,7 @@
 - `{{VERTRAGSTYP}}` – z. B. "Dienstleistungsvertrag", "AVV", "NDA"
 - `{{ZWECK_DES_LEITFADENS}}` – z. B. "Onboarding-Unterlage für Kund:innen"
 - `{{TONALITAET}}` – z. B. "sachlich, freundlich, vertrauenswürdig"
-- `{{FORMAT}}` – z. B. "Markdown", "Google Doc Struktur", "PDF-Struktur"
+- `{{FORMAT}}` – z. B. "Word Dokument", "Google Doc Struktur", "PDF-Struktur"
 - `{{MUST_HAVE_SEKTIONEN}}` – z. B. "Begriffslexikon, Risiken, Beispiele, Checkliste"
 - `{{TABU_THEMEN}}` – z. B. "keine Rechtsauslegung, keine Handlungsempfehlung"
 - `{{VERTRAGSTEXT}}` – *der gesamte Vertrag oder relevante Auszüge*
@@ -117,7 +117,7 @@ Erstelle einen **praxisorientierten Leitfaden**, wie man den obigen Vertrag (ode
 
 ### Ausgabeformat
 
-Gib den Leitfaden in `{{FORMAT}}` aus. Standard ist Markdown mit sauberer Gliederung, Tabellen und Checklisten.
+Gib den Leitfaden in `{{FORMAT}}` aus. Standard ist Word Dokument mit sauberer Gliederung, Tabellen und Checklisten.
 
 ---
 
@@ -141,7 +141,7 @@ Gib den Leitfaden in `{{FORMAT}}` aus. Standard ist Markdown mit sauberer Gliede
 {{VERTRAGSTYP}} = Dienstleistungsvertrag (Marketing Retainer)
 {{ZWECK_DES_LEITFADENS}} = Onboarding & interne Schulung; Reduktion von Rückfragen; höhere Verständlichkeit
 {{TONALITAET}} = sachlich, freundlich, klar
-{{FORMAT}} = Markdown
+{{FORMAT}} = Word Dokument
 {{MUST_HAVE_SEKTIONEN}} = Glossar, Beispiele, Checkliste, Risikofelder, Tabellen für Fristen/Kosten
 {{TABU_THEMEN}} = keine Rechtsberatung; keine Auslegung von strittigen Klauseln
 {{WORTLISTE_VERBOTEN}} = hiermit, ungeachtet dessen, vorbehaltlich

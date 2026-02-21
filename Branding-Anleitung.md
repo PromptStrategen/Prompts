@@ -54,7 +54,7 @@ Ergebnis muss **sofort operationalisierbar** sein: Messaging, Tonalität, visuel
 
 ---
 
-## Output (bitte exakt in dieser Struktur als Markdown)
+## Output (bitte exakt in dieser Struktur als Word Dokument)
 ### 0) Executive Summary (1 Bildschirm)
 - Brand in einem Satz
 - Zielgruppe

@@ -12,7 +12,7 @@ Lieferumfang:
 - SOPs & Supportmodell (L1/L2, Eskalation)
 - Risiko-Register + Gegenmaßnahmen
 
-Output (Markdown):
+Output (Word Dokument):
 - Rollout Roadmap (Woche 1..n)
 - Kommunikationspakete (Templates: Announcement, FAQ, Statusupdate)
 - Trainingsplan

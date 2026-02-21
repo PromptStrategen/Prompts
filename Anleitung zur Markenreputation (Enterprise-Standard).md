@@ -47,7 +47,7 @@ Dein Auftrag: Erstelle eine **umsetzungsreife Anleitung/Playbook zur Markenreput
 - **Keine Floskeln:** Liefere operative Assets (Vorlagen, Checklisten, RACI, Runbooks), nicht nur Theorie.
 - **Qualitätsgate:** Am Ende eine kurze Selbstprüfung gegen KPIs, Risiken, Machbarkeit.
 
-### 3) Liefere im Output exakt diese Struktur (Markdown, GitHub-freundlich)
+### 3) Liefere im Output exakt diese Struktur (Word Dokument)
 
 #### A. Executive Summary (max. 10 Bulletpoints)
 - Aktueller Reifegrad (0–5)

@@ -40,7 +40,7 @@ Erstelle eine **vollständige Marketingstrategie** für {{KUNDE_NAME}} (Agentur-
 6. **Experiment-Backlog**: Hypothesen, Tests, erwarteter Impact, Aufwand, Messkriterien.
 
 ## Output-Format (streng einhalten)
-Gib das Ergebnis in **Markdown** aus, mit klaren Überschriften. Nutze Tabellen dort, wo Vergleich/Planung entsteht. Schreibe **prägnant im Unternehmensjargon**, ohne Fülltext.
+Gib das Ergebnis in **Word Dokument** aus, mit klaren Überschriften. Nutze Tabellen dort, wo Vergleich/Planung entsteht. Schreibe **prägnant im Unternehmensjargon**, ohne Fülltext.
 
 ---
 
